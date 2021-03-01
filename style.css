@@ -167,7 +167,7 @@ footer a{
     color: #00FFFF;
 }
 
-@media screen and (min-width 768px){
+@media screen and (min-width: 768px){
     /*nav*/
     nav{
         flex-direction: row;
@@ -183,7 +183,7 @@ footer a{
 
     header{
         height: 600px;
-        height: 600vh;
+        height: 60vh;
         justify-content: center;
     }
 
